@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn  #needed for instalation, to call it it will be "sklearn"
+matplotlib
+seaborn
+imblearn
+pyyaml
+
